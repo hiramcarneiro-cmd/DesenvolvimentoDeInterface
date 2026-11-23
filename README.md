@@ -1,4 +1,23 @@
-Anotações\
-javaScript_aula1 foi dia 03/11/2026 \
-javaScript_aula2 foi dia 10/11/2026 \
-javaScript_aula3 foi dia 17/11/2026
+# Desenvolvimento de Interface
+
+Repositório destinado às atividades da disciplina de
+Desenvolvimento de Interface do curso de Análise e Desenvolvimento de Sistemas.
+
+## Conteúdos
+
+| Pasta | Conteúdo |
+|---|---|
+| [html-css](./html-css) | Exercícios de HTML e CSS |
+| [javascript](./javascript) | Exercícios e estudos de JavaScript |
+| [ihc](./ihc) | Atividades de Interação Humano-Computador |
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+## Autor
+
+Hiram Pessoa
